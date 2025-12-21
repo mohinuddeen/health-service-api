@@ -1,0 +1,12 @@
+{
+  "id": 101,
+  "title": "Energy Boost IV Drip",
+  "description": "A blend of vitamins to increase energy levels.",
+  "price": 199,
+  "ingredients": [
+    "Vitamin B Complex",
+    "Magnesium",
+    "Fluids"
+  ],
+  "duration": "35 minutes"
+}

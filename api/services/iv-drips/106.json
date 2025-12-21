@@ -1,0 +1,13 @@
+{
+  "id": 106,
+  "title": "Vitamin Mega Boost IV Drip",
+  "description": "High-dose vitamin infusion to boost energy, immunity, and overall wellness.",
+  "price": 259,
+  "ingredients": [
+    "Vitamin B Complex",
+    "Vitamin C",
+    "Magnesium",
+    "Zinc"
+  ],
+  "duration": "40 minutes"
+}

@@ -1,0 +1,10 @@
+{
+  "packages": [
+    {
+      "id": 301,
+      "title": "Full Body Health Package",
+      "price": 899,
+      "image": "https://dummy.com/package1.jpg"
+    }
+  ]
+}

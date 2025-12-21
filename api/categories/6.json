@@ -1,0 +1,28 @@
+{
+  "subcategories": [
+    {
+      "id": 61,
+      "title": "General Physician"
+    },
+    {
+      "id": 62,
+      "title": "Pediatric Consultation"
+    },
+    {
+      "id": 63,
+      "title": "Dermatology Consultation"
+    },
+    {
+      "id": 64,
+      "title": "Gynecology Consultation"
+    },
+    {
+      "id": 65,
+      "title": "Orthopedic Consultation"
+    },
+    {
+      "id": 66,
+      "title": "ENT Specialist Consultation"
+    }
+  ]
+}

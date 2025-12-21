@@ -1,0 +1,12 @@
+{
+  "id": 201,
+  "title": "Women's Health Panel",
+  "tests_included": [
+    "CBC",
+    "Thyroid Test",
+    "Vitamin D",
+    "Iron Level"
+  ],
+  "price": 299,
+  "fasting_required": "Yes"
+}

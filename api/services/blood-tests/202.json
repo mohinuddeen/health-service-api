@@ -1,0 +1,12 @@
+{
+  "id": 202,
+  "title": "Men's Health Panel",
+  "tests_included": [
+    "CBC",
+    "Testosterone Level",
+    "Vitamin D",
+    "Lipid Profile"
+  ],
+  "price": 279,
+  "fasting_required": "No"
+}

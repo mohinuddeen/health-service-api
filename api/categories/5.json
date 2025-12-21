@@ -1,0 +1,28 @@
+{
+  "subcategories": [
+    {
+      "id": 51,
+      "title": "Hourly Home Nurse"
+    },
+    {
+      "id": 52,
+      "title": "Daily Nursing Care"
+    },
+    {
+      "id": 53,
+      "title": "Post-Surgery Care"
+    },
+    {
+      "id": 54,
+      "title": "Elderly Care"
+    },
+    {
+      "id": 55,
+      "title": "Wound Dressing & Management"
+    },
+    {
+      "id": 56,
+      "title": "IV/Injection at Home"
+    }
+  ]
+}

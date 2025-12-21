@@ -1,0 +1,40 @@
+{
+  "tests": [
+    {
+      "id": 201,
+      "title": "Women's Health Panel",
+      "price": 299,
+      "image": "https://dummy.com/women.jpg"
+    },
+    {
+      "id": 202,
+      "title": "Men's Health Panel",
+      "price": 279,
+      "image": "https://dummy.com/men.jpg"
+    },
+    {
+      "id": 203,
+      "title": "Full Body Checkup",
+      "price": 349,
+      "image": "https://dummy.com/fullbody.jpg"
+    },
+    {
+      "id": 204,
+      "title": "Diabetes Screening Panel",
+      "price": 159,
+      "image": "https://dummy.com/diabetes.jpg"
+    },
+    {
+      "id": 205,
+      "title": "Heart Health Profile",
+      "price": 249,
+      "image": "https://dummy.com/heart.jpg"
+    },
+    {
+      "id": 206,
+      "title": "Kidney & Liver Function Test",
+      "price": 199,
+      "image": "https://dummy.com/kidneyliver.jpg"
+    }
+  ]
+}

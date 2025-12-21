@@ -1,0 +1,28 @@
+{
+  "subcategories": [
+    {
+      "id": 11,
+      "title": "Energy Boost"
+    },
+    {
+      "id": 12,
+      "title": "Immunity Booster"
+    },
+    {
+      "id": 13,
+      "title": "Detox Drip"
+    },
+    {
+      "id": 14,
+      "title": "Anti-Aging Drip"
+    },
+    {
+      "id": 15,
+      "title": "Hydration Therapy"
+    },
+    {
+      "id": 16,
+      "title": "Beauty Glow"
+    }
+  ]
+}

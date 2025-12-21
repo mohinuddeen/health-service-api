@@ -1,0 +1,28 @@
+{
+  "subcategories": [
+    {
+      "id": 31,
+      "title": "Weight Loss Package"
+    },
+    {
+      "id": 32,
+      "title": "Beauty & Glow Package"
+    },
+    {
+      "id": 33,
+      "title": "Fitness & Recovery Package"
+    },
+    {
+      "id": 34,
+      "title": "Immune Booster Package"
+    },
+    {
+      "id": 35,
+      "title": "Anti-Aging Package"
+    },
+    {
+      "id": 36,
+      "title": "Stress Relief & Sleep Care"
+    }
+  ]
+}

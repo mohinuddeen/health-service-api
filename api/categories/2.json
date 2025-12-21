@@ -1,0 +1,28 @@
+{
+  "subcategories": [
+    {
+      "id": 21,
+      "title": "Women's Health"
+    },
+    {
+      "id": 22,
+      "title": "Men's Health"
+    },
+    {
+      "id": 23,
+      "title": "Full Body Check"
+    },
+    {
+      "id": 24,
+      "title": "Diabetes Screening"
+    },
+    {
+      "id": 25,
+      "title": "Heart Health"
+    },
+    {
+      "id": 26,
+      "title": "Kidney & Liver Profile"
+    }
+  ]
+}

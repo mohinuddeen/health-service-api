@@ -1,0 +1,15 @@
+{
+  "id": 301,
+  "title": "Full Body Health Package",
+  "included": [
+    {
+      "service_id": 101,
+      "type": "iv_drip"
+    },
+    {
+      "service_id": 201,
+      "type": "blood_test"
+    }
+  ],
+  "price": 899
+}
