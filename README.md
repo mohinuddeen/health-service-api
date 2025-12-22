@@ -12,4 +12,4 @@ This is a static API served through GitHub Pages.
 
 ## How to Use
 Fetch JSON directly:
-https://yourusername.github.io/health_api/api/categories/index.json
+https://mohinuddeen.github.io/health-service-api/api/categories/index.json
