@@ -7,6 +7,10 @@
     {
       "id": 2,
       "image": "https://dummy.com/banner2.jpg"
+    },
+    {
+      "id": 3,
+      "image": "https://dummy.com/banner3.jpg"
     }
   ]
 }
