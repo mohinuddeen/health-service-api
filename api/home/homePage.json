@@ -13,32 +13,32 @@
     {
       "id": 1,
       "title": "IV Drips",
-      "image": "https://dummy.com/iv.png"
+      "image": "https://raw.githubusercontent.com/mohinuddeen/health-service-api/refs/heads/main/images/blood.png"
     },
     {
       "id": 2,
       "title": "Blood Tests",
-      "image": "https://dummy.com/blood.png"
+      "image": "https://raw.githubusercontent.com/mohinuddeen/health-service-api/refs/heads/main/images/blood-test.png"
     },
     {
       "id": 3,
       "title": "Wellness Packages",
-      "image": "https://dummy.com/package.png"
+      "image": "https://raw.githubusercontent.com/mohinuddeen/health-service-api/refs/heads/main/images/healthcare.png"
     },
     {
       "id": 4,
       "title": "Vitamin Shots",
-      "image": "https://dummy.com/vitamin.png"
+      "image": "https://raw.githubusercontent.com/mohinuddeen/health-service-api/refs/heads/main/images/healthcare.png"
     },
     {
       "id": 5,
       "title": "Home Nurse Services",
-      "image": "https://dummy.com/nurse.png"
+      "image": "https://raw.githubusercontent.com/mohinuddeen/health-service-api/refs/heads/main/images/healthcare.png"
     },
     {
       "id": 6,
       "title": "Doctor Consultation",
-      "image": "https://dummy.com/doctor.png"
+      "image": "https://raw.githubusercontent.com/mohinuddeen/health-service-api/refs/heads/main/images/healthcare.png"
     }
   ]
 }
