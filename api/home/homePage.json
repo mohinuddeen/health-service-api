@@ -1,4 +1,18 @@
 {
+  "banners": [
+    {
+      "id": 1,
+      "image": "https://dummy.com/banner1.jpg"
+    },
+    {
+      "id": 2,
+      "image": "https://dummy.com/banner2.jpg"
+    },
+    {
+      "id": 3,
+      "image": "https://dummy.com/banner3.jpg"
+    }
+  ],
   "categories": [
     {
       "id": 1,
