@@ -40,5 +40,35 @@
       "title": "Doctor Consultation",
       "image": "https://raw.githubusercontent.com/mohinuddeen/health-service-api/refs/heads/main/images/healthcare.png"
     }
+  ],
+  "features": [
+    {
+      "id": 1,
+      "icon": "🏥",
+      "title": "24/7 Support",
+      "subtitle": "Always available"
+    },
+    {
+      "id": 2,
+      "icon": "⚡",
+      "title": "Quick Response",
+      "subtitle": "Within 30 minutes"
+    },
+    {
+      "id": 3,
+      "icon": "👨‍⚕️",
+      "title": "Certified Doctors",
+      "subtitle": "Experienced professionals"
+    }
+  ],
+  "trending_services": [
+    {
+      "id": 1,
+      "title": "Full Body Checkup",
+      "price": 2999,
+      "discount_price": 1999,
+      "rating": 4.8,
+      "reviews": 124
+    }
   ]
 }
