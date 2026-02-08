@@ -1,0 +1,34 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "title": "IV Drips",
+      "image": "https://dummy.com/iv.png"
+    },
+    {
+      "id": 2,
+      "title": "Blood Tests",
+      "image": "https://dummy.com/blood.png"
+    },
+    {
+      "id": 3,
+      "title": "Wellness Packages",
+      "image": "https://dummy.com/package.png"
+    },
+    {
+      "id": 4,
+      "title": "Vitamin Shots",
+      "image": "https://dummy.com/vitamin.png"
+    },
+    {
+      "id": 5,
+      "title": "Home Nurse Services",
+      "image": "https://dummy.com/nurse.png"
+    },
+    {
+      "id": 6,
+      "title": "Doctor Consultation",
+      "image": "https://dummy.com/doctor.png"
+    }
+  ]
+}
