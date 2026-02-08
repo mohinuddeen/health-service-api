@@ -2,15 +2,11 @@
   "banners": [
     {
       "id": 1,
-      "image": "https://dummy.com/banner1.jpg"
+      "image": "https://raw.githubusercontent.com/mohinuddeen/health-service-api/refs/heads/main/images/Nurse%20with%20Stethoscope%20and%20Gentle%20Lighting.png"
     },
     {
       "id": 2,
-      "image": "https://dummy.com/banner2.jpg"
-    },
-    {
-      "id": 3,
-      "image": "https://dummy.com/banner3.jpg"
+      "image": "https://raw.githubusercontent.com/mohinuddeen/health-service-api/refs/heads/main/images/Serene%20Nurse%20Symbolizing%20Compassionate%20Care.png"
     }
   ],
   "categories": [
