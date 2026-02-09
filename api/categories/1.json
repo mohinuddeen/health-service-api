@@ -2,27 +2,33 @@
   "subcategories": [
     {
       "id": 11,
-      "title": "Energy Boost"
+      "title": "Energy Boost",
+      "image": "https://raw.githubusercontent.com/mohinuddeen/health-service-api/refs/heads/main/images/healthcare.png"
     },
     {
       "id": 12,
-      "title": "Immunity Booster"
+      "title": "Immunity Booster",
+      "image": "https://raw.githubusercontent.com/mohinuddeen/health-service-api/refs/heads/main/images/healthcare.png"
     },
     {
       "id": 13,
-      "title": "Detox Drip"
+      "title": "Detox Drip",
+      "image": "https://raw.githubusercontent.com/mohinuddeen/health-service-api/refs/heads/main/images/healthcare.png"
     },
     {
       "id": 14,
-      "title": "Anti-Aging Drip"
+      "title": "Anti-Aging Drip",
+      "image": "https://raw.githubusercontent.com/mohinuddeen/health-service-api/refs/heads/main/images/healthcare.png"
     },
     {
       "id": 15,
-      "title": "Hydration Therapy"
+      "title": "Hydration Therapy",
+      "image": "https://raw.githubusercontent.com/mohinuddeen/health-service-api/refs/heads/main/images/healthcare.png"
     },
     {
       "id": 16,
-      "title": "Beauty Glow"
+      "title": "Beauty Glow",
+      "image": "https://raw.githubusercontent.com/mohinuddeen/health-service-api/refs/heads/main/images/healthcare.png"
     }
   ]
 }
