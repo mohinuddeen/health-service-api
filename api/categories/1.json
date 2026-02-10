@@ -1,34 +1,84 @@
 {
-  "subcategories": [
+  "categories": [
     {
       "id": 11,
       "title": "Energy Boost",
-      "image": "https://raw.githubusercontent.com/mohinuddeen/health-service-api/refs/heads/main/images/healthcare.png"
+      "image": "https://raw.githubusercontent.com/mohinuddeen/health-service-api/refs/heads/main/images/healthcare.png",
+      "price": "₹899",
+      "duration": "45 min",
+      "tag": "Popular",
+      "rating": 4.8,
+      "description": "Combat fatigue & boost stamina"
     },
     {
       "id": 12,
       "title": "Immunity Booster",
-      "image": "https://raw.githubusercontent.com/mohinuddeen/health-service-api/refs/heads/main/images/healthcare.png"
+      "image": "https://raw.githubusercontent.com/mohinuddeen/health-service-api/refs/heads/main/images/healthcare.png",
+      "price": "₹1,299",
+      "duration": "60 min",
+      "tag": "Trending",
+      "rating": 4.9,
+      "description": "Strengthen immune defenses"
     },
     {
       "id": 13,
       "title": "Detox Drip",
-      "image": "https://raw.githubusercontent.com/mohinuddeen/health-service-api/refs/heads/main/images/healthcare.png"
+      "image": "https://raw.githubusercontent.com/mohinuddeen/health-service-api/refs/heads/main/images/healthcare.png",
+      "price": "₹1,599",
+      "duration": "75 min",
+      "tag": "Detox",
+      "rating": 4.7,
+      "description": "Eliminate toxins & cleanse"
     },
     {
       "id": 14,
       "title": "Anti-Aging Drip",
-      "image": "https://raw.githubusercontent.com/mohinuddeen/health-service-api/refs/heads/main/images/healthcare.png"
+      "image": "https://raw.githubusercontent.com/mohinuddeen/health-service-api/refs/heads/main/images/healthcare.png",
+      "price": "₹1,999",
+      "duration": "90 min",
+      "tag": "Premium",
+      "rating": 4.9,
+      "description": "Cellular rejuvenation"
     },
     {
       "id": 15,
       "title": "Hydration Therapy",
-      "image": "https://raw.githubusercontent.com/mohinuddeen/health-service-api/refs/heads/main/images/healthcare.png"
+      "image": "https://raw.githubusercontent.com/mohinuddeen/health-service-api/refs/heads/main/images/healthcare.png",
+      "price": "₹749",
+      "duration": "30 min",
+      "tag": "Quick Relief",
+      "rating": 4.6,
+      "description": "Rapid electrolyte restoration"
     },
     {
       "id": 16,
       "title": "Beauty Glow",
-      "image": "https://raw.githubusercontent.com/mohinuddeen/health-service-api/refs/heads/main/images/healthcare.png"
+      "image": "https://raw.githubusercontent.com/mohinuddeen/health-service-api/refs/heads/main/images/healthcare.png",
+      "price": "₹1,699",
+      "duration": "60 min",
+      "tag": "Beauty",
+      "rating": 4.8,
+      "description": "Radiant skin & hair health"
+    },
+    {
+      "id": 17,
+      "title": "Weight Loss Drip",
+      "image": "https://raw.githubusercontent.com/mohinuddeen/health-service-api/refs/heads/main/images/healthcare.png",
+      "price": "₹1,499",
+      "duration": "60 min",
+      "tag": "Fitness",
+      "rating": 4.5,
+      "description": "Metabolism boost & fat burn"
+    },
+    {
+      "id": 18,
+      "title": "Migraine Relief",
+      "image": "https://raw.githubusercontent.com/mohinuddeen/health-service-api/refs/heads/main/images/healthcare.png",
+      "price": "₹999",
+      "duration": "45 min",
+      "tag": "Therapeutic",
+      "rating": 4.7,
+      "description": "Fast headache relief"
     }
   ]
 }
