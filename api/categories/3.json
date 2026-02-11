@@ -1,28 +1,64 @@
 {
-  "subcategories": [
-    {
-      "id": 31,
-      "title": "Weight Loss Package"
-    },
-    {
-      "id": 32,
-      "title": "Beauty & Glow Package"
-    },
-    {
-      "id": 33,
-      "title": "Fitness & Recovery Package"
-    },
-    {
-      "id": 34,
-      "title": "Immune Booster Package"
-    },
-    {
-      "id": 35,
-      "title": "Anti-Aging Package"
-    },
-    {
-      "id": 36,
-      "title": "Stress Relief & Sleep Care"
-    }
-  ]
+"subcategories": [
+{
+"id": 31,
+"title": "Weight Loss Package",
+"image": "https://raw.githubusercontent.com/mohinuddeen/health-service-api/refs/heads/main/images/healthcare.png",
+"price": "$149",
+"duration": "60 min",
+"tag": "Fitness",
+"rating": 4.5,
+"description": "Metabolism boost & fat burn"
+},
+{
+"id": 32,
+"title": "Beauty & Glow Package",
+"image": "https://raw.githubusercontent.com/mohinuddeen/health-service-api/refs/heads/main/images/healthcare.png",
+"price": "$169",
+"duration": "60 min",
+"tag": "Beauty",
+"rating": 4.8,
+"description": "Radiant skin & hair health"
+},
+{
+"id": 33,
+"title": "Fitness & Recovery Package",
+"image": "https://raw.githubusercontent.com/mohinuddeen/health-service-api/refs/heads/main/images/healthcare.png",
+"price": "$149",
+"duration": "60 min",
+"tag": "Fitness",
+"rating": 4.5,
+"description": "Muscle recovery & performance"
+},
+{
+"id": 34,
+"title": "Immune Booster Package",
+"image": "https://raw.githubusercontent.com/mohinuddeen/health-service-api/refs/heads/main/images/healthcare.png",
+"price": "$129",
+"duration": "60 min",
+"tag": "Trending",
+"rating": 4.9,
+"description": "Strengthen immune defenses"
+},
+{
+"id": 35,
+"title": "Anti-Aging Package",
+"image": "https://raw.githubusercontent.com/mohinuddeen/health-service-api/refs/heads/main/images/healthcare.png",
+"price": "$199",
+"duration": "90 min",
+"tag": "Premium",
+"rating": 4.9,
+"description": "Cellular rejuvenation"
+},
+{
+"id": 36,
+"title": "Stress Relief & Sleep Care",
+"image": "https://raw.githubusercontent.com/mohinuddeen/health-service-api/refs/heads/main/images/healthcare.png",
+"price": "$89",
+"duration": "45 min",
+"tag": "Popular",
+"rating": 4.8,
+"description": "Combat fatigue & restore calm"
+}
+]
 }
