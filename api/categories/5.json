@@ -1,28 +1,64 @@
 {
-  "subcategories": [
-    {
-      "id": 51,
-      "title": "Hourly Home Nurse"
-    },
-    {
-      "id": 52,
-      "title": "Daily Nursing Care"
-    },
-    {
-      "id": 53,
-      "title": "Post-Surgery Care"
-    },
-    {
-      "id": 54,
-      "title": "Elderly Care"
-    },
-    {
-      "id": 55,
-      "title": "Wound Dressing & Management"
-    },
-    {
-      "id": 56,
-      "title": "IV/Injection at Home"
-    }
-  ]
+"subcategories": [
+{
+"id": 51,
+"title": "Hourly Home Nurse",
+"image": "https://raw.githubusercontent.com/mohinuddeen/health-service-api/refs/heads/main/images/healthcare.png",
+"price": "$89",
+"duration": "45 min",
+"tag": "Popular",
+"rating": 4.8,
+"description": "Professional nursing care by the hour"
+},
+{
+"id": 52,
+"title": "Daily Nursing Care",
+"image": "https://raw.githubusercontent.com/mohinuddeen/health-service-api/refs/heads/main/images/healthcare.png",
+"price": "$149",
+"duration": "60 min",
+"tag": "Premium",
+"rating": 4.9,
+"description": "Comprehensive daily nursing support"
+},
+{
+"id": 53,
+"title": "Post-Surgery Care",
+"image": "https://raw.githubusercontent.com/mohinuddeen/health-service-api/refs/heads/main/images/healthcare.png",
+"price": "$159",
+"duration": "75 min",
+"tag": "Therapeutic",
+"rating": 4.7,
+"description": "Recovery assistance & monitoring"
+},
+{
+"id": 54,
+"title": "Elderly Care",
+"image": "https://raw.githubusercontent.com/mohinuddeen/health-service-api/refs/heads/main/images/healthcare.png",
+"price": "$129",
+"duration": "60 min",
+"tag": "Popular",
+"rating": 4.8,
+"description": "Compassionate senior care services"
+},
+{
+"id": 55,
+"title": "Wound Dressing & Management",
+"image": "https://raw.githubusercontent.com/mohinuddeen/health-service-api/refs/heads/main/images/healthcare.png",
+"price": "$99",
+"duration": "45 min",
+"tag": "Therapeutic",
+"rating": 4.7,
+"description": "Professional wound care & bandaging"
+},
+{
+"id": 56,
+"title": "IV/Injection at Home",
+"image": "https://raw.githubusercontent.com/mohinuddeen/health-service-api/refs/heads/main/images/healthcare.png",
+"price": "$89",
+"duration": "45 min",
+"tag": "Quick Relief",
+"rating": 4.6,
+"description": "Convenient home-based IV therapy"
+}
+]
 }
