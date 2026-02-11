@@ -2,27 +2,63 @@
   "subcategories": [
     {
       "id": 61,
-      "title": "General Physician"
+      "title": "General Physician",
+      "image": "https://raw.githubusercontent.com/mohinuddeen/health-service-api/refs/heads/main/images/healthcare.png",
+      "price": "$89",
+      "duration": "45 min",
+      "tag": "Popular",
+      "rating": 4.8,
+      "description": "Comprehensive primary care consultation"
     },
     {
       "id": 62,
-      "title": "Pediatric Consultation"
+      "title": "Pediatric Consultation",
+      "image": "https://raw.githubusercontent.com/mohinuddeen/health-service-api/refs/heads/main/images/healthcare.png",
+      "price": "$99",
+      "duration": "45 min",
+      "tag": "Popular",
+      "rating": 4.8,
+      "description": "Expert care for children's health"
     },
     {
       "id": 63,
-      "title": "Dermatology Consultation"
+      "title": "Dermatology Consultation",
+      "image": "https://raw.githubusercontent.com/mohinuddeen/health-service-api/refs/heads/main/images/healthcare.png",
+      "price": "$129",
+      "duration": "60 min",
+      "tag": "Premium",
+      "rating": 4.9,
+      "description": "Skin, hair & nail health specialist"
     },
     {
       "id": 64,
-      "title": "Gynecology Consultation"
+      "title": "Gynecology Consultation",
+      "image": "https://raw.githubusercontent.com/mohinuddeen/health-service-api/refs/heads/main/images/healthcare.png",
+      "price": "$129",
+      "duration": "60 min",
+      "tag": "Popular",
+      "rating": 4.8,
+      "description": "Women's health & wellness specialist"
     },
     {
       "id": 65,
-      "title": "Orthopedic Consultation"
+      "title": "Orthopedic Consultation",
+      "image": "https://raw.githubusercontent.com/mohinuddeen/health-service-api/refs/heads/main/images/healthcare.png",
+      "price": "$129",
+      "duration": "60 min",
+      "tag": "Therapeutic",
+      "rating": 4.7,
+      "description": "Bone, joint & muscle care specialist"
     },
     {
       "id": 66,
-      "title": "ENT Specialist Consultation"
+      "title": "ENT Specialist Consultation",
+      "image": "https://raw.githubusercontent.com/mohinuddeen/health-service-api/refs/heads/main/images/healthcare.png",
+      "price": "$119",
+      "duration": "45 min",
+      "tag": "Popular",
+      "rating": 4.8,
+      "description": "Ear, nose & throat specialist care"
     }
   ]
 }
