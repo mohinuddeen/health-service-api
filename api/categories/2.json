@@ -1,28 +1,64 @@
 {
-  "subcategories": [
-    {
-      "id": 21,
-      "title": "Women's Health"
-    },
-    {
-      "id": 22,
-      "title": "Men's Health"
-    },
-    {
-      "id": 23,
-      "title": "Full Body Check"
-    },
-    {
-      "id": 24,
-      "title": "Diabetes Screening"
-    },
-    {
-      "id": 25,
-      "title": "Heart Health"
-    },
-    {
-      "id": 26,
-      "title": "Kidney & Liver Profile"
-    }
-  ]
+"subcategories": [
+{
+"id": 21,
+"title": "Women's Health",
+"image": "https://raw.githubusercontent.com/mohinuddeen/health-service-api/refs/heads/main/images/healthcare.png",
+"price": "$89",
+"duration": "45 min",
+"tag": "Popular",
+"rating": 4.8,
+"description": "Comprehensive wellness for women"
+},
+{
+"id": 22,
+"title": "Men's Health",
+"image": "https://raw.githubusercontent.com/mohinuddeen/health-service-api/refs/heads/main/images/healthcare.png",
+"price": "$89",
+"duration": "45 min",
+"tag": "Popular",
+"rating": 4.8,
+"description": "Complete men's wellness check"
+},
+{
+"id": 23,
+"title": "Full Body Check",
+"image": "https://raw.githubusercontent.com/mohinuddeen/health-service-api/refs/heads/main/images/healthcare.png",
+"price": "$129",
+"duration": "60 min",
+"tag": "Trending",
+"rating": 4.9,
+"description": "Complete health assessment"
+},
+{
+"id": 24,
+"title": "Diabetes Screening",
+"image": "https://raw.githubusercontent.com/mohinuddeen/health-service-api/refs/heads/main/images/healthcare.png",
+"price": "$99",
+"duration": "45 min",
+"tag": "Therapeutic",
+"rating": 4.7,
+"description": "Blood sugar monitoring & management"
+},
+{
+"id": 25,
+"title": "Heart Health",
+"image": "https://raw.githubusercontent.com/mohinuddeen/health-service-api/refs/heads/main/images/healthcare.png",
+"price": "$159",
+"duration": "75 min",
+"tag": "Premium",
+"rating": 4.9,
+"description": "Cardiovascular risk assessment"
+},
+{
+"id": 26,
+"title": "Kidney & Liver Profile",
+"image": "https://raw.githubusercontent.com/mohinuddeen/health-service-api/refs/heads/main/images/healthcare.png",
+"price": "$149",
+"duration": "60 min",
+"tag": "Fitness",
+"rating": 4.8,
+"description": "Comprehensive organ function test"
+}
+]
 }
