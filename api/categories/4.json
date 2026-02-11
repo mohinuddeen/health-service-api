@@ -1,28 +1,64 @@
 {
-  "subcategories": [
-    {
-      "id": 41,
-      "title": "Vitamin B12 Shot"
-    },
-    {
-      "id": 42,
-      "title": "Vitamin D3 Shot"
-    },
-    {
-      "id": 43,
-      "title": "Vitamin C Mega Shot"
-    },
-    {
-      "id": 44,
-      "title": "Glutathione Skin Glow Shot"
-    },
-    {
-      "id": 45,
-      "title": "Biotin Hair & Nails Shot"
-    },
-    {
-      "id": 46,
-      "title": "Immunity Boosting Shot"
-    }
-  ]
+"subcategories": [
+{
+"id": 41,
+"title": "Vitamin B12 Shot",
+"image": "https://raw.githubusercontent.com/mohinuddeen/health-service-api/refs/heads/main/images/healthcare.png",
+"price": "$89",
+"duration": "45 min",
+"tag": "Popular",
+"rating": 4.8,
+"description": "Energy boost & metabolism support"
+},
+{
+"id": 42,
+"title": "Vitamin D3 Shot",
+"image": "https://raw.githubusercontent.com/mohinuddeen/health-service-api/refs/heads/main/images/healthcare.png",
+"price": "$89",
+"duration": "45 min",
+"tag": "Popular",
+"rating": 4.8,
+"description": "Bone health & immune function"
+},
+{
+"id": 43,
+"title": "Vitamin C Mega Shot",
+"image": "https://raw.githubusercontent.com/mohinuddeen/health-service-api/refs/heads/main/images/healthcare.png",
+"price": "$99",
+"duration": "45 min",
+"tag": "Therapeutic",
+"rating": 4.7,
+"description": "High-dose antioxidant support"
+},
+{
+"id": 44,
+"title": "Glutathione Skin Glow Shot",
+"image": "https://raw.githubusercontent.com/mohinuddeen/health-service-api/refs/heads/main/images/healthcare.png",
+"price": "$169",
+"duration": "60 min",
+"tag": "Beauty",
+"rating": 4.8,
+"description": "Skin brightening & detox"
+},
+{
+"id": 45,
+"title": "Biotin Hair & Nails Shot",
+"image": "https://raw.githubusercontent.com/mohinuddeen/health-service-api/refs/heads/main/images/healthcare.png",
+"price": "$129",
+"duration": "60 min",
+"tag": "Beauty",
+"rating": 4.8,
+"description": "Strengthen hair & nails"
+},
+{
+"id": 46,
+"title": "Immunity Boosting Shot",
+"image": "https://raw.githubusercontent.com/mohinuddeen/health-service-api/refs/heads/main/images/healthcare.png",
+"price": "$129",
+"duration": "60 min",
+"tag": "Trending",
+"rating": 4.9,
+"description": "Strengthen immune defenses"
+}
+]
 }
