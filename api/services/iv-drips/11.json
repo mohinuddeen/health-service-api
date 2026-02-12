@@ -1,0 +1,31 @@
+{
+  "id": 11,
+  "title": "Energy Boost IV Drip",
+  "subtitle": "Combat fatigue & boost stamina",
+  "image": "https://raw.githubusercontent.com/mohinuddeen/health-service-api/refs/heads/main/images/healthcare.png",
+  "price": 89,
+  "duration": "45 min",
+  "rating": 4.8,
+  "tag": "Popular",
+  "description": "A powerful blend of essential B vitamins, amino acids, and hydration fluids designed to combat fatigue, increase mental clarity, and restore energy levels naturally without caffeine jitters.",
+  "benefits": [
+    "Immediate energy boost",
+    "Improved mental focus",
+    "Reduced fatigue",
+    "Better athletic recovery"
+  ],
+  "key_ingredients": [
+    "Vitamin B12",
+    "B-Complex",
+    "Magnesium",
+    "Amino acids",
+    "Sterile saline"
+  ],
+  "suitable_for": [
+    "Busy professionals",
+    "Athletes",
+    "Chronic fatigue",
+    "Jet lag recovery"
+  ],
+  "preparation": "No preparation needed. Stay hydrated before your appointment."
+}
