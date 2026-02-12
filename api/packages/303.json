@@ -1,0 +1,20 @@
+{
+  "id": 303,
+  "title": "Sports Performance Package",
+  "included": [
+    {
+      "service_id": 103,
+      "type": "iv_drip"
+    },
+    {
+      "service_id": 203,
+      "type": "blood_test"
+    },
+    {
+      "service_id": 302,
+      "type": "physiotherapy"
+    }
+  ],
+  "price": 749,
+  "image": "https://raw.githubusercontent.com/mohinuddeen/health-service-api/refs/heads/main/images/package.png"
+}
