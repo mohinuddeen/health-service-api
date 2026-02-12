@@ -1,0 +1,31 @@
+{
+  "id": 15,
+  "title": "Hydration Therapy",
+  "subtitle": "Rapid electrolyte restoration",
+  "image": "https://raw.githubusercontent.com/mohinuddeen/health-service-api/refs/heads/main/images/healthcare.png",
+  "price": 75,
+  "duration": "30 min",
+  "rating": 4.6,
+  "tag": "Quick Relief",
+  "description": "Fast-acting fluid and electrolyte replenishment to combat dehydration from illness, exercise, heat exposure, or travel fatigue.",
+  "benefits": [
+    "Immediate hydration",
+    "Headache relief",
+    "Electrolyte balance",
+    "Rapid recovery"
+  ],
+  "key_ingredients": [
+    "Sterile saline",
+    "Potassium",
+    "Magnesium",
+    "B-Complex",
+    "Zinc"
+  ],
+  "suitable_for": [
+    "Hangover recovery",
+    "Post-workout rehydration",
+    "Heat exhaustion",
+    "Travel fatigue"
+  ],
+  "preparation": "No special preparation. Our fastest treatment option."
+}
