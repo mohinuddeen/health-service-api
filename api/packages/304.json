@@ -1,0 +1,20 @@
+{
+  "id": 304,
+  "title": "Senior Care Package",
+  "included": [
+    {
+      "service_id": 104,
+      "type": "iv_drip"
+    },
+    {
+      "service_id": 204,
+      "type": "blood_test"
+    },
+    {
+      "service_id": 303,
+      "type": "checkup"
+    }
+  ],
+  "price": 599,
+  "image": "https://raw.githubusercontent.com/mohinuddeen/health-service-api/refs/heads/main/images/package.png"
+}
