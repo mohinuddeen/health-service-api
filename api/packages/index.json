@@ -1,10 +1,39 @@
 {
   "packages": [
-    {
-      "id": 301,
-      "title": "Full Body Health Package",
-      "price": 899,
-      "image": "https://dummy.com/package1.jpg"
-    }
-  ]
+  {
+    "id": 301,
+    "title": "Full Body Health Package",
+    "service_count": 2,
+    "price": 899,
+    "image": "https://raw.githubusercontent.com/mohinuddeen/health-service-api/refs/heads/main/images/package.png"
+  },
+  {
+    "id": 302,
+    "title": "Executive Wellness Package",
+    "service_count": 3,
+    "price": 1299,
+    "image": "https://raw.githubusercontent.com/mohinuddeen/health-service-api/refs/heads/main/images/package.png"
+  },
+  {
+    "id": 303,
+    "title": "Sports Performance Package",
+    "service_count": 3,
+    "price": 749,
+    "image": "https://raw.githubusercontent.com/mohinuddeen/health-service-api/refs/heads/main/images/package.png"
+  },
+  {
+    "id": 304,
+    "title": "Senior Care Package",
+    "service_count": 3,
+    "price": 599,
+    "image": "https://raw.githubusercontent.com/mohinuddeen/health-service-api/refs/heads/main/images/package.png"
+  },
+  {
+    "id": 305,
+    "title": "Weight Management Package",
+    "service_count": 3,
+    "price": 679,
+    "image": "https://raw.githubusercontent.com/mohinuddeen/health-service-api/refs/heads/main/images/package.png"
+  }
+]
 }
