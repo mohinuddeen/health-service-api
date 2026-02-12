@@ -1,0 +1,20 @@
+{
+  "id": 305,
+  "title": "Weight Management Package",
+  "included": [
+    {
+      "service_id": 105,
+      "type": "iv_drip"
+    },
+    {
+      "service_id": 205,
+      "type": "blood_test"
+    },
+    {
+      "service_id": 304,
+      "type": "nutrition"
+    }
+  ],
+  "price": 679,
+  "image": "https://raw.githubusercontent.com/mohinuddeen/health-service-api/refs/heads/main/images/package.png"
+}
