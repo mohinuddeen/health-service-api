@@ -1,0 +1,31 @@
+{
+  "id": 16,
+  "title": "Beauty Glow Drip",
+  "subtitle": "Radiant skin & hair health",
+  "image": "https://raw.githubusercontent.com/mohinuddeen/health-service-api/refs/heads/main/images/healthcare.png",
+  "price": 169,
+  "duration": "60 min",
+  "rating": 4.8,
+  "tag": "Beauty",
+  "description": "A beauty-focused infusion with biotin, collagen-supporting nutrients, and skin-brightening antioxidants for luminous skin, stronger nails, and healthier hair.",
+  "benefits": [
+    "Brighter complexion",
+    "Stronger hair & nails",
+    "Reduced acne",
+    "Even skin tone"
+  ],
+  "key_ingredients": [
+    "Biotin",
+    "Vitamin C",
+    "Glutathione",
+    "Zinc",
+    "B-Complex"
+  ],
+  "suitable_for": [
+    "Pre-event glow",
+    "Dull skin",
+    "Brittle nails",
+    "Hair thinning"
+  ],
+  "preparation": "Remove makeup from injection site. Stay hydrated before appointment."
+}

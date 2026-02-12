@@ -1,0 +1,35 @@
+{
+  "id": 26,
+  "title": "Kidney & Liver Profile Blood Test",
+  "subtitle": "Comprehensive organ function test",
+  "image": "https://raw.githubusercontent.com/mohinuddeen/health-service-api/refs/heads/main/images/healthcare.png",
+  "price": 149,
+  "duration": "60 min",
+  "rating": 4.8,
+  "tag": "Fitness",
+  "description": "Dual-organ assessment panel evaluating liver enzymes, synthetic function, and detoxification capacity alongside kidney filtration markers and electrolyte balance.",
+  "tests_include": [
+    "Liver Function Panel (ALT, AST, ALP, GGT)",
+    "Total Protein, Albumin, Globulin",
+    "Bilirubin (Total & Direct)",
+    "Renal Function Panel (BUN, Creatinine)",
+    "eGFR",
+    "Electrolytes (Sodium, Potassium, Chloride)",
+    "Uric Acid"
+  ],
+  "benefits": [
+    "Liver disease detection",
+    "Kidney function assessment",
+    "Medication effect monitoring",
+    "Detoxification capacity evaluation"
+  ],
+  "fasting_required": "Yes, 10-12 hours. Water only.",
+  "report_time": "24-48 hours",
+  "suitable_for": [
+    "Medication monitoring",
+    "Alcohol use history",
+    "Hypertension",
+    "Family history of kidney or liver disease"
+  ],
+  "preparation": "Fasting required. Avoid acetaminophen and alcohol 24 hours prior. Report all medications and supplements."
+}

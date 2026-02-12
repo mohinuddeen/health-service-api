@@ -1,0 +1,35 @@
+{
+  "id": 21,
+  "title": "Women's Health Blood Test",
+  "subtitle": "Comprehensive wellness for women",
+  "image": "https://raw.githubusercontent.com/mohinuddeen/health-service-api/refs/heads/main/images/healthcare.png",
+  "price": 89,
+  "duration": "45 min",
+  "rating": 4.8,
+  "tag": "Popular",
+  "description": "A complete blood panel designed specifically for women's health needs, assessing hormone balance, iron levels, thyroid function, and key nutrients to support overall wellness at every life stage.",
+  "tests_include": [
+    "Complete Blood Count (CBC)",
+    "Comprehensive Metabolic Panel",
+    "Lipid Panel",
+    "Thyroid Panel (TSH, T3, T4)",
+    "Iron & Ferritin",
+    "Vitamin D & B12",
+    "Estrogen & Progesterone"
+  ],
+  "benefits": [
+    "Hormonal balance assessment",
+    "Anemia detection",
+    "Thyroid function evaluation",
+    "Nutritional deficiency screening"
+  ],
+  "fasting_required": "Yes, 10-12 hours. Water only.",
+  "report_time": "24-48 hours",
+  "suitable_for": [
+    "Annual wellness check",
+    "Hormonal concerns",
+    "Fatigue & low energy",
+    "Family planning"
+  ],
+  "preparation": "Fasting required. Stay hydrated. Inform us of any medications or supplements."
+}
