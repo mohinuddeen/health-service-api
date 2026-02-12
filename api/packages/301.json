@@ -11,5 +11,6 @@
       "type": "blood_test"
     }
   ],
-  "price": 899
+  "price": 899,
+  "image": "https://raw.githubusercontent.com/mohinuddeen/health-service-api/refs/heads/main/images/package.png"
 }
