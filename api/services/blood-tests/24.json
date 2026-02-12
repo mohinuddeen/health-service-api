@@ -1,0 +1,35 @@
+{
+  "id": 24,
+  "title": "Diabetes Screening Blood Test",
+  "subtitle": "Blood sugar monitoring & management",
+  "image": "https://raw.githubusercontent.com/mohinuddeen/health-service-api/refs/heads/main/images/healthcare.png",
+  "price": 99,
+  "duration": "45 min",
+  "rating": 4.7,
+  "tag": "Therapeutic",
+  "description": "Specialized blood panel focused on glucose metabolism, insulin function, and long-term blood sugar control for diabetes diagnosis, prediabetes screening, and ongoing management.",
+  "tests_include": [
+    "Fasting Glucose",
+    "Hemoglobin A1c",
+    "Insulin Level",
+    "C-Peptide",
+    "Comprehensive Metabolic Panel",
+    "Lipid Panel",
+    "Urinalysis"
+  ],
+  "benefits": [
+    "Diabetes diagnosis",
+    "Prediabetes detection",
+    "Blood sugar management",
+    "Treatment effectiveness monitoring"
+  ],
+  "fasting_required": "Yes, 10-12 hours. Water only.",
+  "report_time": "24-48 hours",
+  "suitable_for": [
+    "Family history of diabetes",
+    "Overweight or obese",
+    "Gestational diabetes history",
+    "Existing diabetic management"
+  ],
+  "preparation": "Strict fasting required. Continue diabetes medications as prescribed unless directed otherwise."
+}
