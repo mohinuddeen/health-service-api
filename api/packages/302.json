@@ -1,20 +1,32 @@
 {
   "id": 302,
   "title": "Executive Wellness Package",
+  "description": "Complete health assessment and rejuvenation for busy professionals",
+  "duration": "2.5 hours",
   "included": [
     {
       "service_id": 102,
-      "type": "iv_drip"
+      "type": "iv_drip",
+      "name": "Energy Boost IV",
+      "description": "Vitamin B12 and hydration drip for immediate vitality"
     },
     {
       "service_id": 202,
-      "type": "blood_test"
+      "type": "blood_test",
+      "name": "Comprehensive Blood Panel",
+      "description": "Full metabolic and vitamin deficiency analysis"
     },
     {
       "service_id": 301,
-      "type": "consultation"
+      "type": "consultation",
+      "name": "Physician Consultation",
+      "description": "One-on-one review of results with wellness doctor"
     }
   ],
   "price": 1299,
+  "discount_price": 1099,
+  "currency": "USD",
+  "availability": "available",
+  "tags": ["executive", "premium", "wellness"],
   "image": "https://raw.githubusercontent.com/mohinuddeen/health-service-api/refs/heads/main/images/package.png"
 }
