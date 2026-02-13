@@ -1,20 +1,28 @@
 {
   "id": 304,
   "title": "Senior Care Package",
+  "description": "Thoughtfully designed wellness package for older adults focusing on healthy aging, vitality, and preventive care. Includes gentle nutritional support, comprehensive health screening, and thorough medical assessment.",
   "included": [
     {
       "service_id": 104,
-      "type": "iv_drip"
+      "type": "iv_drip",
+      "name": "Vitality & Immunity IV",
+      "description": "Gentle hydration with essential vitamins B12, C, and minerals to support energy, immune function, and bone health"
     },
     {
       "service_id": 204,
-      "type": "blood_test"
+      "type": "blood_test",
+      "name": "Senior Wellness Panel",
+      "description": "Comprehensive testing including vitamin deficiencies, thyroid function, kidney/liver health, and key age-related markers"
     },
     {
       "service_id": 303,
-      "type": "checkup"
+      "type": "checkup",
+      "name": "Geriatric Health Assessment",
+      "description": "Thorough physical examination, medication review, fall risk assessment, and personalized wellness plan"
     }
   ],
   "price": 599,
+  "currency": "USD",
   "image": "https://raw.githubusercontent.com/mohinuddeen/health-service-api/refs/heads/main/images/package.png"
 }
