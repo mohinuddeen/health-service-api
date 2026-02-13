@@ -1,20 +1,28 @@
 {
   "id": 305,
   "title": "Weight Management Package",
+  "description": "A science-based approach to healthy weight loss and metabolic optimization. Combines targeted nutritional support, hormone and metabolic testing, and personalized nutrition coaching for sustainable results.",
   "included": [
     {
       "service_id": 105,
-      "type": "iv_drip"
+      "type": "iv_drip",
+      "name": "Metabolic Boost IV",
+      "description": "Lipotropic compounds, B-complex vitamins, and amino acids to support fat metabolism and energy production"
     },
     {
       "service_id": 205,
-      "type": "blood_test"
+      "type": "blood_test",
+      "name": "Metabolic & Hormone Panel",
+      "description": "Comprehensive analysis of thyroid function, insulin resistance, cortisol, and key metabolic markers"
     },
     {
       "service_id": 304,
-      "type": "nutrition"
+      "type": "nutrition",
+      "name": "Personalized Nutrition Consultation",
+      "description": "One-on-one session with registered dietitian to create customized meal plan based on your blood results and goals"
     }
   ],
   "price": 679,
+  "currency": "USD",
   "image": "https://raw.githubusercontent.com/mohinuddeen/health-service-api/refs/heads/main/images/package.png"
 }
