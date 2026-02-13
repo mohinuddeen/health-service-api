@@ -1,32 +1,22 @@
 {
-  "id": 302,
-  "title": "Executive Wellness Package",
-  "description": "Complete health assessment and rejuvenation for busy professionals",
-  "duration": "2.5 hours",
+  "id": 301,
+  "title": "Full Body Health Package",
+  "description": "A comprehensive health assessment that combines advanced diagnostic testing with therapeutic IV nourishment. Perfect for anyone looking to get a complete picture of their overall health and address any underlying issues.",
   "included": [
     {
-      "service_id": 102,
+      "service_id": 101,
       "type": "iv_drip",
-      "name": "Energy Boost IV",
-      "description": "Vitamin B12 and hydration drip for immediate vitality"
+      "name": "Myers' Cocktail IV",
+      "description": "High-dose vitamins and minerals to boost immunity and energy levels"
     },
     {
-      "service_id": 202,
+      "service_id": 201,
       "type": "blood_test",
-      "name": "Comprehensive Blood Panel",
-      "description": "Full metabolic and vitamin deficiency analysis"
-    },
-    {
-      "service_id": 301,
-      "type": "consultation",
-      "name": "Physician Consultation",
-      "description": "One-on-one review of results with wellness doctor"
+      "name": "Comprehensive Wellness Panel",
+      "description": "Analyzes 40+ biomarkers including vitamin levels, thyroid function, and inflammation markers"
     }
   ],
-  "price": 1299,
-  "discount_price": 1099,
+  "price": 899,
   "currency": "USD",
-  "availability": "available",
-  "tags": ["executive", "premium", "wellness"],
   "image": "https://raw.githubusercontent.com/mohinuddeen/health-service-api/refs/heads/main/images/package.png"
 }
