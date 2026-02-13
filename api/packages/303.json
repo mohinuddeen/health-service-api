@@ -1,20 +1,28 @@
 {
   "id": 303,
   "title": "Sports Performance Package",
+  "description": "Designed for athletes and active individuals to optimize performance, speed up recovery, and prevent injuries. This comprehensive package combines targeted IV therapy, performance blood analysis, and expert physiotherapy.",
   "included": [
     {
       "service_id": 103,
-      "type": "iv_drip"
+      "type": "iv_drip",
+      "name": "Athletic Recovery IV",
+      "description": "Amino acids, electrolytes, and anti-inflammatory nutrients to speed muscle recovery and reduce soreness"
     },
     {
       "service_id": 203,
-      "type": "blood_test"
+      "type": "blood_test",
+      "name": "Sports Performance Panel",
+      "description": "Tests for key markers including iron, vitamin D, testosterone, cortisol, and inflammation levels"
     },
     {
       "service_id": 302,
-      "type": "physiotherapy"
+      "type": "physiotherapy",
+      "name": "Sports Physiotherapy Assessment",
+      "description": "Full movement analysis, muscle testing, and personalized recovery plan with sports specialist"
     }
   ],
   "price": 749,
+  "currency": "USD",
   "image": "https://raw.githubusercontent.com/mohinuddeen/health-service-api/refs/heads/main/images/package.png"
 }
