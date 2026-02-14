@@ -1,0 +1,29 @@
+{
+  "id": 44,
+  "title": "Glutathione Skin Glow Shot",
+  "subtitle": "Skin brightening & cellular detox",
+  "image": "https://raw.githubusercontent.com/mohinuddeen/health-service-api/refs/heads/main/images/healthcare.png",
+  "price": 169,
+  "duration": "30 min",
+  "rating": 4.8,
+  "tag": "Beauty",
+  "description": "The 'master antioxidant' delivered via intramuscular injection for maximum bioavailability. This powerful tripeptide works to neutralize free radicals, lighten skin pigmentation, detoxify the liver, and promote a radiant, even-toned complexion from within.",
+  "benefits": [
+    "Skin brightening and lightening",
+    "Powerful detoxification",
+    "Reduced oxidative damage",
+    "Improved skin elasticity"
+  ],
+  "key_ingredients": [
+    "Reduced L-Glutathione",
+    "Vitamin C",
+    "Sterile water"
+  ],
+  "suitable_for": [
+    "Hyperpigmentation",
+    "Dull skin",
+    "Detox protocols",
+    "Anti-aging concerns"
+  ],
+  "preparation": "Avoid alcohol 24 hours before. Best results with a course of 6-10 sessions."
+}
