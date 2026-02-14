@@ -1,0 +1,30 @@
+{
+  "id": 45,
+  "title": "Biotin Hair & Nails Shot",
+  "subtitle": "Strengthen hair & nails from within",
+  "image": "https://raw.githubusercontent.com/mohinuddeen/health-service-api/refs/heads/main/images/healthcare.png",
+  "price": 129,
+  "duration": "20 min",
+  "rating": 4.8,
+  "tag": "Beauty",
+  "description": "A concentrated Vitamin B7 (Biotin) injection designed to support keratin infrastructure, promoting stronger, faster-growing nails and thicker, more resilient hair. Essential for those experiencing hair thinning or brittle nails due to nutritional deficiencies.",
+  "benefits": [
+    "Stronger, thicker hair",
+    "Faster nail growth",
+    "Reduced nail brittleness",
+    "Improved hair texture"
+  ],
+  "key_ingredients": [
+    "D-Biotin",
+    "Vitamin B5",
+    "Zinc",
+    "Sterile water"
+  ],
+  "suitable_for": [
+    "Hair thinning",
+    "Brittle nails",
+    "Slow hair growth",
+    "Post-pregnancy hair loss"
+  ],
+  "preparation": "Consistency is key - weekly shots recommended for first month. Stay hydrated."
+}
