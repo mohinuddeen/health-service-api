@@ -1,0 +1,28 @@
+{
+  "id": 43,
+  "title": "Vitamin C Mega Shot",
+  "subtitle": "High-dose antioxidant support",
+  "image": "https://raw.githubusercontent.com/mohinuddeen/health-service-api/refs/heads/main/images/healthcare.png",
+  "price": 99,
+  "duration": "20 min",
+  "rating": 4.7,
+  "tag": "Therapeutic",
+  "description": "A therapeutic dose of ascorbic acid delivered intramuscularly to bypass digestive limitations, providing potent antioxidant protection, collagen synthesis support, and immune system enhancement at levels impossible to achieve through oral supplementation.",
+  "benefits": [
+    "Powerful antioxidant protection",
+    "Enhanced collagen production",
+    "Faster wound healing",
+    "Reduced oxidative stress"
+  ],
+  "key_ingredients": [
+    "Ascorbic Acid (Vitamin C)",
+    "Sterile water"
+  ],
+  "suitable_for": [
+    "Frequent illness",
+    "Skin health concerns",
+    "Smokers",
+    "High oxidative stress"
+  ],
+  "preparation": "Stay well hydrated. Inform practitioner if you have kidney issues or G6PD deficiency."
+}
