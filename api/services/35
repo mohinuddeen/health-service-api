@@ -1,0 +1,31 @@
+{
+  "id": 35,
+  "title": "Anti-Aging Package",
+  "subtitle": "Cellular rejuvenation & vitality",
+  "image": "https://raw.githubusercontent.com/mohinuddeen/health-service-api/refs/heads/main/images/healthcare.png",
+  "price": 199,
+  "duration": "90 min",
+  "rating": 4.9,
+  "tag": "Premium",
+  "description": "Our most advanced formula combining powerful antioxidants, NAD+, and essential nutrients designed to combat cellular aging, boost energy at the mitochondrial level, and promote longevity.",
+  "benefits": [
+    "Cellular repair",
+    "Reduced oxidative stress",
+    "Improved mental clarity",
+    "Youthful vitality"
+  ],
+  "key_ingredients": [
+    "NAD+",
+    "Glutathione",
+    "Vitamin C",
+    "B-Complex",
+    "Minerals"
+  ],
+  "suitable_for": [
+    "Age management",
+    "Anti-aging concerns",
+    "Cellular health",
+    "Longevity optimization"
+  ],
+  "preparation": "Stay well hydrated. Avoid alcohol 24 hours prior."
+}
