@@ -1,0 +1,31 @@
+{
+  "id": 46,
+  "title": "Immunity Boosting Shot",
+  "subtitle": "Strengthen immune defenses naturally",
+  "image": "https://raw.githubusercontent.com/mohinuddeen/health-service-api/refs/heads/main/images/healthcare.png",
+  "price": 129,
+  "duration": "25 min",
+  "rating": 4.9,
+  "tag": "Trending",
+  "description": "A synergistic blend of immune-critical nutrients including Zinc, Vitamin C, and B-complex delivered via intramuscular injection to rapidly activate and strengthen the body's natural defense mechanisms, ideal for cold and flu season or after exposure to illness.",
+  "benefits": [
+    "Rapid immune system activation",
+    "Faster recovery from illness",
+    "Increased white blood cell production",
+    "Reduced severity of symptoms"
+  ],
+  "key_ingredients": [
+    "Zinc sulfate",
+    "Vitamin C",
+    "Vitamin B6",
+    "Vitamin B12",
+    "Sterile water"
+  ],
+  "suitable_for": [
+    "Cold & flu season",
+    "Recent illness exposure",
+    "Frequent travelers",
+    "Recovering from infection"
+  ],
+  "preparation": "Best taken at first sign of illness or for prevention during high-risk periods. Stay hydrated."
+}
