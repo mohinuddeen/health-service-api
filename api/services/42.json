@@ -1,0 +1,28 @@
+{
+  "id": 42,
+  "title": "Vitamin D3 Shot",
+  "subtitle": "Bone health & immune support",
+  "image": "https://raw.githubusercontent.com/mohinuddeen/health-service-api/refs/heads/main/images/healthcare.png",
+  "price": 89,
+  "duration": "15 min",
+  "rating": 4.8,
+  "tag": "Popular",
+  "description": "A high-potency Vitamin D3 injection designed to quickly elevate serum vitamin D levels, supporting calcium absorption, bone density, immune function, and mood regulation - especially beneficial during winter months or for those with limited sun exposure.",
+  "benefits": [
+    "Stronger bones and teeth",
+    "Enhanced immune function",
+    "Improved mood",
+    "Better calcium absorption"
+  ],
+  "key_ingredients": [
+    "Cholecalciferol (Vitamin D3)",
+    "Sterile saline solution"
+  ],
+  "suitable_for": [
+    "Limited sun exposure",
+    "Osteoporosis risk",
+    "Frequent infections",
+    "Seasonal affective disorder"
+  ],
+  "preparation": "No preparation needed. Regular monitoring recommended for optimal levels."
+}
