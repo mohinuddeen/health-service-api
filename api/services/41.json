@@ -1,0 +1,28 @@
+{
+  "id": 41,
+  "title": "Vitamin B12 Shot",
+  "subtitle": "Instant energy & metabolism boost",
+  "image": "https://raw.githubusercontent.com/mohinuddeen/health-service-api/refs/heads/main/images/healthcare.png",
+  "price": 89,
+  "duration": "15 min",
+  "rating": 4.8,
+  "tag": "Popular",
+  "description": "A concentrated dose of methylcobalamin (Vitamin B12) delivered directly into the bloodstream for immediate absorption, providing rapid energy enhancement, improved metabolism, and better neurological function without the jitters of caffeine.",
+  "benefits": [
+    "Immediate energy boost",
+    "Enhanced metabolism",
+    "Improved mood and focus",
+    "Reduced fatigue and weakness"
+  ],
+  "key_ingredients": [
+    "Methylcobalamin (Vitamin B12)",
+    "Sterile saline solution"
+  ],
+  "suitable_for": [
+    "Vegans and vegetarians",
+    "Chronic fatigue sufferers",
+    "Shift workers",
+    "Energy slumps"
+  ],
+  "preparation": "No preparation needed. Best taken on an empty stomach for maximum absorption."
+}
