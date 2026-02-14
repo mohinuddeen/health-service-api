@@ -1,0 +1,31 @@
+{
+  "id": 32,
+  "title": "Beauty & Glow Package",
+  "subtitle": "Radiant skin & luxurious hair",
+  "image": "https://raw.githubusercontent.com/mohinuddeen/health-service-api/refs/heads/main/images/healthcare.png",
+  "price": 169,
+  "duration": "60 min",
+  "rating": 4.8,
+  "tag": "Beauty",
+  "description": "A premium blend of antioxidants, biotin, and essential nutrients that work from within to promote glowing skin, strengthen hair, and support overall beauty from the inside out.",
+  "benefits": [
+    "Brighter, clearer skin",
+    "Stronger hair and nails",
+    "Reduced fine lines",
+    "Natural glow enhancement"
+  ],
+  "key_ingredients": [
+    "Biotin",
+    "Vitamin C",
+    "Glutathione",
+    "Zinc",
+    "Collagen peptides"
+  ],
+  "suitable_for": [
+    "Skin rejuvenation",
+    "Hair thinning concerns",
+    "Pre-event glow",
+    "Anti-aging maintenance"
+  ],
+  "preparation": "Stay hydrated. Avoid alcohol 24 hours before treatment."
+}
