@@ -1,0 +1,31 @@
+{
+  "id": 31,
+  "title": "Weight Loss Package",
+  "subtitle": "Accelerate metabolism & burn fat naturally",
+  "image": "https://raw.githubusercontent.com/mohinuddeen/health-service-api/refs/heads/main/images/healthcare.png",
+  "price": 149,
+  "duration": "60 min",
+  "rating": 4.5,
+  "tag": "Fitness",
+  "description": "A specialized formula combining lipotropic compounds, essential vitamins, and amino acids designed to boost metabolism, enhance fat burning, and support healthy weight management.",
+  "benefits": [
+    "Increased metabolism",
+    "Enhanced fat burning",
+    "Improved energy during workouts",
+    "Appetite suppression"
+  ],
+  "key_ingredients": [
+    "Methionine",
+    "Inositol",
+    "Choline",
+    "Vitamin B12",
+    "MIC complex"
+  ],
+  "suitable_for": [
+    "Weight management goals",
+    "Plateau breakers",
+    "Fitness enthusiasts",
+    "Post-pregnancy weight loss"
+  ],
+  "preparation": "Avoid heavy meals 2 hours before. Stay well hydrated."
+}
