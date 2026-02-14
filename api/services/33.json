@@ -1,0 +1,31 @@
+{
+  "id": 33,
+  "title": "Fitness & Recovery Package",
+  "subtitle": "Optimize performance & speed recovery",
+  "image": "https://raw.githubusercontent.com/mohinuddeen/health-service-api/refs/heads/main/images/healthcare.png",
+  "price": 149,
+  "duration": "60 min",
+  "rating": 4.5,
+  "tag": "Fitness",
+  "description": "An athletic-focused formulation with branched-chain amino acids, electrolytes, and anti-inflammatory nutrients to enhance physical performance, reduce muscle soreness, and accelerate recovery time.",
+  "benefits": [
+    "Faster muscle recovery",
+    "Reduced exercise fatigue",
+    "Improved endurance",
+    "Decreased inflammation"
+  ],
+  "key_ingredients": [
+    "BCAAs",
+    "Glutamine",
+    "Magnesium",
+    "Taurine",
+    "Electrolyte complex"
+  ],
+  "suitable_for": [
+    "Post-workout recovery",
+    "Athletes",
+    "Marathon training",
+    "Muscle soreness relief"
+  ],
+  "preparation": "Best within 2 hours after intense workout. Hydrate well."
+}
