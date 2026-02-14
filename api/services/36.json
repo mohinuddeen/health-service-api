@@ -1,0 +1,31 @@
+{
+  "id": 36,
+  "title": "Stress Relief & Sleep Care",
+  "subtitle": "Combat fatigue & restore calm",
+  "image": "https://raw.githubusercontent.com/mohinuddeen/health-service-api/refs/heads/main/images/healthcare.png",
+  "price": 89,
+  "duration": "45 min",
+  "rating": 4.8,
+  "tag": "Popular",
+  "description": "A calming blend of magnesium, B vitamins, and amino acids formulated to reduce stress hormones, promote relaxation, and support healthy sleep patterns for complete mind-body restoration.",
+  "benefits": [
+    "Reduced stress levels",
+    "Better sleep quality",
+    "Mental calmness",
+    "Muscle relaxation"
+  ],
+  "key_ingredients": [
+    "Magnesium",
+    "GABA",
+    "5-HTP",
+    "B-Complex",
+    "Taurine"
+  ],
+  "suitable_for": [
+    "High stress lifestyles",
+    "Insomnia",
+    "Anxiety relief",
+    "Burnout recovery"
+  ],
+  "preparation": "Book in evening for best results. Avoid caffeine 4 hours before."
+}
